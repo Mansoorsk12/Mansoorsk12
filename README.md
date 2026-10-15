@@ -11,7 +11,7 @@
 <h3 align="center">Full Stack Developer | React.js • JavaScript • Java</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shaik-mansoor-sadhik-70b20b28a">
+  <a href="www.linkedin.com/in/mansoorsadhik">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/MansoorSadhik">
@@ -20,7 +20,7 @@
   <a href="mailto:mansoorsk115@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mansoor-portfolio-theta.vercel.app/">
+  <a href="https://mansoor-sadhik-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1IAnwVk4LYFbTRfH9iG-I_ByuyItBpuCO/view?usp=sharing">
@@ -173,7 +173,7 @@ I'm always excited to learn, contribute, and build real-world solutions alongsid
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shaik-mansoor-sadhik-70b20b28a">
+  <a href="www.linkedin.com/in/mansoorsadhik">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/MansoorSadhik">
