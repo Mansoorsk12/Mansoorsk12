@@ -11,7 +11,7 @@
 <h3 align="center">Full Stack Developer | React.js • JavaScript • Java</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/mansoorsadhik">
+  <a href="[www.linkedin.com/in/mansoorsadhik](https://www.linkedin.com/in/mansoorsadhik/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/MansoorSadhik">
