@@ -55,10 +55,9 @@ I'm an aspiring **Full Stack Developer** passionate about building responsive, u
 
 <!-- assets/*.svg are regenerated daily by .github/workflows/update-stats.yml -->
 <p align="center">
-  <img src="./assets/stats.svg" alt="GitHub stats" />
-  <img src="./assets/languages.svg" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mansoorsk12&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansoorsk12&layout=compact&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansoorsk12&theme=tokyonight" alt="GitHub streak" />
 </p>
